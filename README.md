@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# todo-app-celebal 📝⚡️ Cyberpunk Edition
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to **todo-app-celebal**, a React To-Do List wrapped in the electric pulse of Cyberpunk 2077’s neon-lit streets.  
+Turn your chaotic brain dump into an organized mission briefing, with style so sharp it cuts through the darkest night.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Features 🚀 Neon Highlights
 
-### `npm start`
+- ⚡ Add, edit, and delete tasks faster than a hacker’s keystroke  
+- 💾 Tasks saved in local storage — no mission lost in the data fog  
+- 🔄 Smooth toggling between **All**, **Active**, and **Completed** tasks  
+- 📱 Responsive design that flexes on every screen size — from handheld to holo-display  
+- ✨ Tasks glow with neon colors inspired by Night City’s electric veins  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started 💻 Plug In & Power Up
 
-### `npm test`
+Suit up and deploy locally in a few quick commands:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+# Clone the repo from my vault
+git clone https://github.com/krishnash648/todo-app-celebal.git
 
-### `npm run build`
+# Enter the neon lair
+cd todo-app-celebal
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Load dependencies (install cyber-gear)
+npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Fire up the engine
+npm start
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Why here?  
 
-### `npm run eject`
+Because this is the natural flow:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- First, you clone and install  
+- Then you start the app  
+- Then you open your browser to see it live  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+It’s the final step of “Getting Started,” so users won’t miss it.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+If you want, I can also help you format the entire section so it looks smooth and clear!
 
-## Learn More
+## Contact 📬 Ping Me in the Net
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Slide into my DMs if you want to collab or just talk code and cyberpunk aesthetics:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Email:** [sharmakrishna1605@gmail.com](mailto:sharmakrishna1605@gmail.com)  
+- **GitHub:** [krishnash648](https://github.com/krishnash648)  
+- **Twitter:** [@_ipriyaaa_](https://x.com/_ipriyaaa_)  
+- **Instagram:** [priyxhaa](https://www.instagram.com/priyxhaa/)
