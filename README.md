@@ -1,5 +1,10 @@
 # todo-app-celebal 📝⚡️ Cyberpunk Edition
 
+![GitHub repo size](https://img.shields.io/github/repo-size/krishnash648/todo-app-celebal)
+![GitHub contributors](https://img.shields.io/github/contributors/krishnash648/todo-app-celebal)
+![GitHub stars](https://img.shields.io/github/stars/krishnash648/todo-app-celebal?style=social)
+![GitHub issues](https://img.shields.io/github/issues/krishnash648/todo-app-celebal)
+
 Welcome to **todo-app-celebal**, a React To-Do List wrapped in the electric pulse of Cyberpunk 2077’s neon-lit streets.  
 Turn your chaotic brain dump into an organized mission briefing, with style so sharp it cuts through the darkest night.
 
@@ -20,6 +25,12 @@ Turn your chaotic brain dump into an organized mission briefing, with style so s
 - ✨ Tasks glow with neon colors inspired by Night City’s electric veins  
 
 ---
+## Built With 🛠️
+
+- [React](https://reactjs.org/) - The frontend wizardry  
+- [UUID](https://www.npmjs.com/package/uuid) - For unique task IDs  
+- [React Scripts](https://www.npmjs.com/package/react-scripts) - The build engine  
+- [gh-pages](https://www.npmjs.com/package/gh-pages) - To launch your app into the GitHub universe  
 
 ## Getting Started 💻 Plug In & Power Up
 
