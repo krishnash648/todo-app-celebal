@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-app-celebal/static/css/main.90fa4859.css",
+    "main.js": "/todo-app-celebal/static/js/main.e7a912d2.js",
+    "static/js/453.4ebd182c.chunk.js": "/todo-app-celebal/static/js/453.4ebd182c.chunk.js",
+    "index.html": "/todo-app-celebal/index.html",
+    "main.90fa4859.css.map": "/todo-app-celebal/static/css/main.90fa4859.css.map",
+    "main.e7a912d2.js.map": "/todo-app-celebal/static/js/main.e7a912d2.js.map",
+    "453.4ebd182c.chunk.js.map": "/todo-app-celebal/static/js/453.4ebd182c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90fa4859.css",
+    "static/js/main.e7a912d2.js"
+  ]
+}
