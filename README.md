@@ -5,6 +5,12 @@ Turn your chaotic brain dump into an organized mission briefing, with style so s
 
 ---
 
+## 🚀 Live Demo
+
+👾 Witness it in action here:  
+🔗 [todo-app-celebal](https://krishnash648.github.io/todo-app-celebal)
+
+
 ## Features 🚀 Neon Highlights
 
 - ⚡ Add, edit, and delete tasks faster than a hacker’s keystroke  
