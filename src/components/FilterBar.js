@@ -3,7 +3,7 @@ function FilterBar({ filter, setFilter, sortOrder, setSortOrder }) {
     <div className="filter-bar">
       <select value={filter} onChange={(e) => setFilter(e.target.value)}>
         <option value="all">All</option>
-        <option value="done">Completed</option>
+        <option value="Completed">Completed</option>
         <option value="notdone">Pending</option>
       </select>
       <select value={sortOrder} onChange={(e) => setSortOrder(e.target.value)}>

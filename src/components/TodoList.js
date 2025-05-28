@@ -3,9 +3,11 @@ import TodoItem from './TodoItem';
 
 function TodoList({ todos, setTodos, filter, sortOrder }) {
   const filtered = todos.filter(todo =>
-    filter === 'all' ? true :
-    filter === 'done' ? todo.completed : !todo.completed
-  );
+  filter === 'all' ? true :
+  filter === 'completed' ? todo.completed :
+  filter === 'notdone' ? !todo.completed :
+  true
+);
 
   const sorted = [...filtered].sort((a, b) => {
     if (sortOrder === 'newest') return b.timestamp - a.timestamp;
