@@ -9,7 +9,6 @@
   box-sizing: border-box;
 }
 
-/* Mobile responsiveness */
 @media (max-width: 600px) {
   body {
     padding: 1rem;
