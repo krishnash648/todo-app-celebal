@@ -1,4 +1,3 @@
-// TodoItem.js
 function TodoItem({ todo, todos, setTodos }) {
   const toggleComplete = () => {
     const updated = todos.map(t => t.id === todo.id ? { ...t, completed: !t.completed } : t);
