@@ -1,4 +1,3 @@
-// TodoList.js
 import TodoItem from './TodoItem';
 
 function TodoList({ todos, setTodos, filter, sortOrder }) {
